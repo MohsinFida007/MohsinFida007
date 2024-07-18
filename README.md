@@ -7,25 +7,25 @@
 
 - 📫 How to reach me **mohsinfida9065@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGLS3xwYlw/j7f3IW43sklx2cuIAsKQhQ/view?utm_content=DAGLS3xwYlw&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGLS3xwYlw/j7f3IW43sklx2cuIAsKQhQ/view?utm_content=DAGLS3xwYlw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [View My Resume](https://www.canva.com/design/DAGLS3xwYlw/j7f3IW43sklx2cuIAsKQhQ/view?utm_content=DAGLS3xwYlw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - ⚡ Fun fact **I think I am funny😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://wa.me/yourphonenumber" target="blank">
+  <a href="https://wa.link/msqe28" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" height="30" width="30" />
   </a>
   <a href="mailto:mohsinfida9065@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="30" />
   </a>
-  <a href="https://linkedin.com/in/muhammad mohsin" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-mohsin-3a33a1299" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/mohsin fida" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100074048292460&mibextid=ZbWKwL" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/aka_mohsinfida" target="blank">
+  <a href="https://www.instagram.com/aka_mohsinfida?igsh=MW54NmkzbTRzZTJ5ZQ==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
