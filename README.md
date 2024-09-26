@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mohsinfida9065@gmail.com**
 
-- 📄 Know about my experiences <a href="https://app.enhancv.com/share/fbed0e35/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">[View My Resume]</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1V1f8lbXpaBsbILBc2h5M0OKyZF0FfckW/view?usp=drive_link">[View My Resume]</a>
   
 
 - ⚡ Fun fact **I think I am funny😄**
