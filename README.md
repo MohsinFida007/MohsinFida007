@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mohsinfida9065@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://www.canva.com/design/DAGLS3xwYlw/j7f3IW43sklx2cuIAsKQhQ/view?utm_content=DAGLS3xwYlw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [View My Resume]([https://www.canva.com/design/DAGLS3xwYlw/j7f3IW43sklx2cuIAsKQhQ/view?utm_content=DAGLS3xwYlw&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://app.enhancv.com/share/fbed0e35/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 - ⚡ Fun fact **I think I am funny😄**
 
