@@ -86,8 +86,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohsinFida007&label=Profile%20Views&color=E53935&style=for-the-badge" alt="Profile Views"/>
 </p>
-## 🐍 Contribution Snake  
 
-<p align="center">
-  <img src="https://github.com/MohsinFida007/MohsinFida007/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
