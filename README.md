@@ -27,8 +27,6 @@
   <a href="https://wa.link/msqe28"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40"/></a>
   <a href="mailto:mohsinfida9065@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/></a>
   <a href="https://www.linkedin.com/in/muhammad-mohsin-3a33a1299"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100074048292460&mibextid=ZbWKwL"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40"/></a>
-  <a href="https://www.instagram.com/aka_mohsinfida"><img src="https://img.icons8.com/color/48/000000/instagram.png" width="40"/></a>
 </p>
 
 ---
